@@ -109,4 +109,4 @@ For more fonts add .ttf font files in executable folder and redeploy the layer a
 
 ## Reference
 1. https://www.youtube.com/watch?v=lNU5L96E8tc
-2 https://github.com/naeemshaikh27/phantom-lambda-fontconfig-pack
+2. https://github.com/naeemshaikh27/phantom-lambda-fontconfig-pack 
